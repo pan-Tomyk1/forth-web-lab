@@ -7,6 +7,9 @@ main{
     justify-content: center;
     flex-direction: row;
 }
+main a{
+    text-decoration: none;
+}
 .child_container{
     flex: 1; /* Робить кожен дочірній div рівної ширини */
     margin: 30px;
